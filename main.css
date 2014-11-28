@@ -1,0 +1,125 @@
+p, a {
+  font-family: 'Roboto', sans-serif;
+  color:#393c3d
+}
+
+a:hover {
+  color: #5a5a5a;
+}
+
+main {
+  background-color: #f7f7f7;
+}
+
+.nav {
+  padding-top: 10px;
+  background-color: #fff;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('images/bg.png');
+  background-repeat: repeat;
+  height: 500px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family:'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.about-bonus p, .about-bonus a {
+  font-size: 14px;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+    font-family:'Roboto', sans-serif;
+    font-weight: 300;
+    color: #393c3d;
+}
+
+.portfolio-ios {
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.portfolio-ios p, .portfolio-print p {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.portfolio-ios img {
+    width: 90%;
+}
+.portfolio-web {
+    background-color: #fbeee5;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.portfolio-web img {
+    height: 200px;
+}
+
+.portfolio-print {
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.portfolio-print img {
+    width: 50%;
+    padding-bottom: 20px;
+}
+.portfolio-misc {
+    background-color: #fbeee5;
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 15px;
+}
+
+.portfolio-misc img {
+  width: 180px;
+  padding: 0 20px;
+}
+
+.media img {
+  height: 50px;
+  padding: 0 20px;
+}
+
+.contact {
+  background-color: #c7f4f7;
+  text-decoration: none;
+  border-bottom: 1px solid #dbdbdb;
+  text-decoration: none;
+}
+
+footer {
+    background-color: #fff;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 10px;
+}
